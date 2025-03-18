@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj5657663&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj5657663" /> </p>
 
-- 🌱 I’m currently learning **DSA WITH JAVA , VS-CODE , 'PROJECTS HANDLE WITH REQUIREMNTS PROBLEM " DEPLOYMENTS PHASES **
+- 🌱 I’m currently learning *🌱* DSA with Java,'Projects Handle With Real Scenario that " Developments phases " *🌱*
 
 - 📫 How to reach me **yuvrajkumar4588@gmail.com**
 <p> <a href=" https://linkedin.com/in/yuvraj-kumar564"> </a>📫 How to reach me ** yuvraj-kumar564**</p>
