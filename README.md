@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **DSA WITH JAVA , VS-CODE , 'PROJECTS HANDLE WITH REQUIREMNTS PROBLEM " DEPLOYMENTS PHASES **
 
 - 📫 How to reach me **yuvrajkumar4588@gmail.com**
-<p> <a href=" https://linkedin.com/in/yuvraj-kumar564">- 📫 How to reach me ** yuvraj-kumar564**</a></p>
+<p> <a href=" https://linkedin.com/in/yuvraj-kumar564"> </a>📫 How to reach me ** yuvraj-kumar564**</p>
 
 - ⚡ Fun fact **I think , I am funny**
 
